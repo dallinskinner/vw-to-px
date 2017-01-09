@@ -1,0 +1,15 @@
+{
+  "name": "vw-to-px",
+  "version": "0.1.0",
+  "description": "Node script to take a css file and find all vw values and output a new stylesheet with just those values. Alternately, you can convert them to px at a given size",
+  "main": "parse.js",
+  "dependencies": {
+    "css": "^2.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dallin Skinner",
+  "license": "ISC"
+}
